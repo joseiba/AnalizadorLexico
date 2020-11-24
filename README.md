@@ -1,4 +1,4 @@
-CAnalizador Lexico
+Analizador Lexico
 ------------------
 Ambiente de Desarrollo:
 -Lenaguaje de Programacion C
