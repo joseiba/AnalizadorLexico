@@ -1,10 +1,7 @@
-Compiladores-FPUNA
+CAnalizador Lexico
 ------------------
-Analizador Lexico
-------------------
-Autores:
-- José Ibañez
-- Javier Paredes
+Ambiente de Desarrollo:
+-Lenaguaje de Programacion C
 
 Para compilar: gcc anlex.c tablaSimbolos.c -o anlex
 Para ejecutar: ./anlex fuente.txt
